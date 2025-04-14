@@ -42,7 +42,8 @@ PG Life** is a fully functional web-based application developed during my **Web 
 - **User Signup/Login**  
   Secure user authentication using email and password. Sessions are maintained throughout browsing.
 
-  ![image](https://github.com/user-attachments/assets/3d2bc97c-14e6-4d89-98e8-ae4e4c08a6fb)
+ ![image](https://github.com/user-attachments/assets/85cc2ee4-aea1-4f8a-90f3-936196336739)
+
 
 
 - **City-Based PG Browsing**  
