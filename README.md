@@ -49,8 +49,7 @@ PG Life** is a fully functional web-based application developed during my **Web 
 - **City-Based PG Browsing**  
   Homepage provides options for cities like Delhi, Mumbai, Bengaluru, and Hyderabad. Clicking a city shows all PGs in that city.
 
-  ![image](https://github.com/user-attachments/assets/2356860e-eae0-406d-a32c-f695581364d8)
-
+ ![image](https://github.com/user-attachments/assets/9906a013-59b9-4aad-bf99-d91e58155419)
 
 
 - **Property Listings**  
