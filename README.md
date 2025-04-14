@@ -12,8 +12,6 @@ PG Life** is a fully functional web-based application developed during my **Web 
 
 ![image](https://github.com/user-attachments/assets/8f67b59d-640f-4343-a3a5-9e727261386a)
 
-![image](https://github.com/user-attachments/assets/80c469b2-2ef6-4a60-a044-e4b862a9ebf4)
-
 
 
 ---
@@ -49,6 +47,10 @@ PG Life** is a fully functional web-based application developed during my **Web 
 - **City-Based PG Browsing**  
   Homepage provides options for cities like Delhi, Mumbai, Bengaluru, and Hyderabad. Clicking a city shows all PGs in that city.
 
+  ![image](https://github.com/user-attachments/assets/2356860e-eae0-406d-a32c-f695581364d8)
+
+
+
 - **Property Listings**  
   Each property shows an image, title, location, gender preference (boys/girls), rent, and amenities.
 
@@ -62,9 +64,14 @@ PG Life** is a fully functional web-based application developed during my **Web 
   - Facilities
   - Address & gender suitability
   - "Contact Owner" button (visible only when logged in)
+    ![image](https://github.com/user-attachments/assets/d5aea17a-3775-4fd6-b457-7bd0a4a3df67)
+
 
 - **Dashboard Page**  
   Logged-in users can view PG details and access the user dashboard.
+
+  ![image](https://github.com/user-attachments/assets/1c353b1e-277f-408a-b8a3-8ff6dcecf731)
+
 
 - **Logout Functionality**  
   Secure logout functionality to destroy the session and redirect to the home page.
