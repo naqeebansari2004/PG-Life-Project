@@ -10,7 +10,7 @@ PG Life** is a fully functional web-based application developed during my **Web 
 
 **PG Life** is a student accommodation platform that allows users to search, browse, and view details of PG (Paying Guest) properties in different cities. The application supports user authentication, listing filtering, and secure access to property details.
 
-![image](https://github.com/user-attachments/assets/8f67b59d-640f-4343-a3a5-9e727261386a)
+![Uploading image.png…]()
 
 
 
