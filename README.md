@@ -75,7 +75,8 @@ PG Life** is a fully functional web-based application developed during my **Web 
 - **Dashboard Page**  
   Logged-in users can view PG details and access the user dashboard.
 
-  ![image](https://github.com/user-attachments/assets/1c353b1e-277f-408a-b8a3-8ff6dcecf731)
+ ![image](https://github.com/user-attachments/assets/26eef6c0-1b7e-4db3-8f95-c5e629ad674f)
+
 
 
 - **Logout Functionality**  
