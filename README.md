@@ -1,5 +1,3 @@
----
-
 # 🏠 PG Life – Full-Stack Web Application
 
 PG Life** is a fully functional web-based application developed during my **Web Development Training Internship in the Summer of 2025**. This project was the result of intensive training in both front-end and back-end technologies, where I learned and implemented everything used in this project — from UI design to server-side scripting and database management.
